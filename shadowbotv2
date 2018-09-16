@@ -33,20 +33,20 @@ read enter
 exit
 }
 echo -e $red
-echo "s./";
-sleep 0.1;
+echo "s./"
+sleep 0.5
 clear
 echo -e $yellow
-echo "sh..-";
-sleep 0.1;
+echo "sh..-"
+sleep 0.5
 clear
 echo -e $lightgreen
-echo "sha..\";
-sleep 0.1;
+echo "sha..\"
+sleep 0.5
 clear
 echo -e $red
-echo "shad../";
-sleep 0.1;
+echo "shad../"
+sleep 0.5
 clear
 echo -e $yellow
 echo "shado..-";
