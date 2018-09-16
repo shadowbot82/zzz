@@ -37,11 +37,11 @@ echo "s./";
 sleep 0.1;
 clear
 echo -e $yellow
-echo "sh..-"
+echo "sh..-";
 sleep 0.1;
 clear
 echo -e $lightgreen
-echo "sha..\"
+echo "sha..\";
 sleep 0.1;
 clear
 echo -e $red
@@ -49,7 +49,7 @@ echo "shad../";
 sleep 0.1;
 clear
 echo -e $yellow
-echo "shado..-"
+echo "shado..-";
 sleep 0.1;
 clear
 echo -e $lightgreen
@@ -538,6 +538,30 @@ echo -e $yellow" 64) SCANNER-INURLBR"
 echo -e $white"[+]=================================[+]"
 echo -e $lightgreen" 65) Google Dork"
 echo -e $red"[+] ================================[+] "
+echo -e $white" 66) Bot komena facebook"
+echo -e $yellow"[+]=================================[+]"
+echo -e $red" 67) Script deface creator"
+echo -e $lightgreen"[+]=================================[+]"
+echo -e $yellow" 68) Crewbot"
+echo -e $white"[+]=================================[+]"
+echo -e $lightgreen" 69) Diejoubu"
+echo -e $red"[+]=================================[+]"
+echo -e $white" 70) Recondog"
+echo -e $yellow"[+]=================================[+]"
+echo -e $red" 71) Santet-online"
+echo -e $lightgreen"[+]=================================[+]"
+echo -e $yellow" 72) Social Fish"
+echo -e $white"[+]=================================[+]"
+echo -e $lightgreen" 73) strikers"
+echo -e $red"[+]=================================[+]"
+echo -e $white" 74) Lazymux"
+echo -e $yellow"[+]=================================[+]"
+echo -e $red" 75) NIK KK Generate"
+echo -e $lightgreen"[+]=================================[+]"
+echo -e $yellow" 76) Tsel-Spam-Code"
+echo -e $white"[+]=================================[+]"
+echo -e $lightgreen" 77) Xlpy"
+echo -e $red"[+]=================================[+]"
 echo -e ""
 echo -e $yellow" [<]==============================[>]"
 echo -e $red"  00) Keluar Njengg... "
@@ -1478,6 +1502,162 @@ apt install git
 git clone https://github.com/XG77Z10/Google-Dork
 sleep 1
 echo -e $yellow" Selamat Udah Berhasil Ke Instal... "
+fi
+
+if [ $act = 66 ] || [ $act = 66 ]
+then 
+echo -e $lightgreen" installing bot komena facebook"
+sleep 1
+apt-get update
+apt-get upgrade
+apt-get install git
+apt-get install python2
+pip2 install mechanize
+git clone https://github.com/Senitopeng/Botkomena.git
+sleep 1
+fi
+
+if [ $act = 67 ] || [ $act = 67 ]
+then
+echo -e $lightgreen"installing script deface creator"
+sleep 1
+apt-get install python2
+apt-get install git 
+git clone https://github.com/Ubaii/script-deface-creator
+cd script-deface-creator
+chmod +x create.py
+sleep 1
+echo -e $yellow" Selesai Install Coy ..."
+fi
+
+if [ $act = 68 ] || [ $act = 68 ]
+then
+echo -e $lightgreen" Installing crewbot"
+sleep 1
+apt-get update
+apt-get upgrade
+apt-get install git
+apt-get install python2
+git clone https://github.com/Xeit666h05t/CrewBot
+sleep 1
+echo -e $yellow" Selesai Install Coy... "
+fi
+
+if [ $act = 69 ] || [ $act = 69 ]
+then
+echo -e $lightgreen" Installing Diejoubu"
+sleep 1
+apt-get install php 
+apt-get install git 
+git clone https://github.com/alintamvanz/diejoubu 
+sleep 1
+echo -e $yellow" Selesai Install Coy..."
+fi
+
+if [ $act = 70 ] || [ $act = 70 ]
+then
+echo -e $lightgreen" Installing Recondog"
+sleep 1
+apt-get update
+apt-get install python python2
+apt-get install git
+git clone https://github.com/UltimateHackers/ReconDog
+cd ReconDog
+chmod +x dog.py
+sleep 1
+echo -e $yellow" Selesai Install Coy..."
+fi
+
+if [ $act = 71 ] || [ $act = 71 ]
+then
+echo -e $lightgreen" Installing santet-online"
+sleep 1
+apt-get update
+apt-get upgrade
+apt-get install python2
+apt-get install git
+git clone https://github.com/Gameye98/santet-online
+sleep 1
+echo -e $yellow" Selesai Install Coy..."
+fi
+
+if [ $act = 72 ] || [ $act = 72 ]
+then
+echo -e $lightgreen" installing social fish"
+sleep 1
+apt-get update
+apt-get upgrade
+apt-get install git
+apt-get install python2
+apt-get install php 
+git clone https://github.com/UndeadSec/SocialFish
+cd SocialFish
+pip install -r requirements.txt
+sleep 1
+echo -e $yellow" Selesai Install Coy..."
+fi
+
+if [ $act = 73 ] || [ $act = 73 ]
+then
+echo -e $lightgreen" Instaling striker"
+sleep 1
+apt-get update
+apt-get upgrade
+apt-get install git
+apt-get install python2
+git clone https://github.com/UltimateHackers/Striker
+cd Striker
+pip2 install -r requirements.txt
+sleep 1
+echo -e $yellow" Selesai Install Coy..."
+fi
+
+if [ $act = 74 ] || [ $act = 74 ]
+then
+echo -e $lightgreen" Installing Lazymux"
+sleep 1
+apt-get update
+apt-get pkg install python2 
+apt-get install git 
+git clone https://github.com/Gameye98/Lazymux 
+cd Lazymux 
+chmod +x lazymux.py 
+sleep 1
+echo -e $yellow" Selesai Install Coy..."
+fi
+
+if [ $act = 75 ] || [ $act = 75 ]
+then
+echo -e $lightgreen" Installing NIK KK Generate"
+sleep 1
+apt-get install php
+apt-get install git
+git clone https://github.com/zerosvn/ktpkkgenerate
+sleep 1
+echo -e $yellow" Selesai Install Coy..."
+fi
+
+if [ $act = 76 ] || [ $act = 76 ] 
+then
+echo -e $lightgreen" Installing Tsel Spam Code"
+sleep 1
+apt-get install php
+apt-get install git
+git clone https://github.com/ilhamhax0r/TSEL-Spam-Code.git
+sleep 1
+echo -e $yellow" Selesai Install Coy..."
+fi
+
+if [ $act = 77 ] || [ $act = 77 ]
+then
+echo -e $lightgreen" Installing Xlpy"
+sleep 1
+apt-get install python
+apt-get install git
+pip install requests
+git clone https://github.com/kumpul4semut/xl-py.git
+sleep 1
+echo -e $yellow" Selesai Install Coy..."
 fi
 
 if [ $act = 00 ] || [ $act = 00 ]
