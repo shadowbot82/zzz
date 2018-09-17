@@ -221,6 +221,8 @@ sleep 3
 clear
 exit
 }
+slowprint(W + '#'*45)
+
 echo -e $red"          ###    #     #   ###   # ###      ###   #       #"
 echo -e $yellow"        #     #  #     # #     # #     #  #     # #   #   #"
 echo -e $lightgreen"        # ###    # ### # # ### # #      # #     # #  # #  #"
