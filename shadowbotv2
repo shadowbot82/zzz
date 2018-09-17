@@ -32,196 +32,206 @@ echo -e $white"[#]> Shadow Bot  ... "
 read enter
 exit
 }
-echo ""{
-echo -e $yellow" w../"
+
+echo -e $red" LOADING....."
+sleep 0.2
+clear
+echo -e $yellow" lOADING.........."
 sleep 0.1
 clear
-echo -e $lightgreen" we..-"
+echo -e $lightgreen" LoADING..............."
 sleep 0.1
 clear
-echo -e $red" wel...\"
+echo -e $red" LOaDING...................."
 sleep 0.1
 clear
-echo -e $yellow" welc.../"
+echo -e $yellow" LOAdING........................."
 sleep 0.1
 clear
-echo -e $lightgreen" welco....\"
+echo -e $lightgreen" LOADiNG.............................."
 sleep 0.1
 clear
-echo -e $red" welcom.....-"
+echo -e $red" LOADInG..................................."
 sleep 0.1
 clear
-echo -e $yellow" welcome..../"
+echo -e $yellow" LOADINg........................................"
 sleep 0.1
 clear
-echo -e $lightgreen" welcome t.....\"
+echo -e $lightgreen" LOADING..................................................."
 sleep 0.1
 clear
-echo -e $red" welcome to......-"
+echo -e $red" LOADINg......................................................"
 sleep 0.1
 clear
-echo -e $yellow" welcome to t......./"
+echo -e $yellow" LOADInG...................................................."
 sleep 0.1
 clear
-echo -e $lightgreen" welcome to to.......-"
+echo -e $lightgreen" LOADiNG............................................"
 sleep 0.1
 clear
-echo -e $red" welcome to too........\"
+echo -e $red" LOAdING....................................................."
 sleep 0.1
 clear
-echo -e $yellow" welcome to tool.........-"
+echo -e $yellow" LOaDING....................................................."
 sleep 0.1
 clear
-echo -e $lightgreen" welcome to tools........../"
+echo -e $lightgreen" LoADING..............................................."
 sleep 0.1
 clear
-echo -e $red" welcome to tools s...........\"
+echo -e $red" lOADING..............................................."
 sleep 0.1
 clear
-echo -e $yellow" welcome to tools sh............/"
-sleep 0.1
-clear
-echo -e $lightgreen" welcome to tools sha.............-"
-sleep 0,1
-clear
-echo -e $red" welcome to tools shad..............\"
-sleep 0.1
-clear
-echo -e $yellow" welcome to tools shado.............../"
-sleep 0.1
-clear
-echo -e $lightgreen" welcome to tools shadow.................-"
-sleep 0.1
-clear
-echo -e $red" welcome to tools shadow b.................\"
-sleep 0.1
-clear
-echo -e $yellow" welcome to tools shadow bo................./"
-sleep 0.1
-clear
-echo -e $lightgreen" welcome to tools shadow bo..................-"
-sleep 0.1
-clear
-echo -e $red" welcome to tools shadow bot.....................\"
-sleep 0.1
-clear
-echo -e $yellow" Welcome to tools shadow bot..................../"
-sleep 0.1
-clear
-echo -e $lightgreen" wElcome to tools shadow bot....................-"
-sleep 0.1
-clear
-echo -e $red" weLcome to tools shadpw bot............................\"
-sleep 0.1
-clear
-echo -e $yellow" welCome to tools shadow bot............................-"
-sleep 0.1
-clear
-echo -e $lightgreen" welcOme to tools shadow bot............................../"
-sleep 0.1
-clear
-echo -e $red" welcoMe to tools shadow bot......................................\"
-sleep 0.1
-clear
-echo -e $yellow" welcomE to tools shadow bot......................................../"
-sleep 0.1
-clear
-echo -e $lightgreen" welcome To tools shadow bot..........................................-"
-sleep 0.1
-clear
-echo -e $red" welcome tO tools shadow bot..................................................\"
-sleep 0.1
-clear
-echo -e $yellow" welcome to Tools shadow bot...................................................-"
-sleep 0.1
-clear
-echo -e $lightgreen" welcome to tOols shadow bot.................................................../"
-sleep 0.1
-clear
-echo -e $red" welcome to toOls shadow bot..............................................................\"
-sleep 0.1
-clear
-echo -e $yellow" welcome to tooLs shadow bot............................................................./"
-sleep 0.1
-clear
-echo -e $lightgreen" welcome to toolS shadow bot..............................................................-"
-sleep 0.1
-clear
-echo -e $red" welcome to tools Shadow bot.......................................................................\"
-sleep 0.1
-clear
-echo -e $yellow" welcome to tools sHadow bot........................................................................./"
-sleep 0.1
-clear
-echo -e $lightgreen" welcome to tools shAdow bot.........................................................................-"
-sleep 0.1
-clear
-echo -e $red" welcome to tools shaDow bot.......................................................................................\"
-sleep 0.1
-clear
-echo -e $yellow" welcome to tools shadOw bot............................................................................................/"
-sleep 0.1
-clear
-echo -e $lightgreen" welcome to tools shadoW bot.............................................................................................-"
-sleep 0.1
-clear
-echo -e $red" welcome to tools shadow Bot........................................................................................................\"
-sleep 0.1
-clear
-echo -e $yellow" welcome to tools shadow bOt................................................................................................................-"
-sleep 0.1
-clear
-echo -e $lightgreen" welcome to tools shadow boT....................................................................................................................../"
-sleep 0.1
-clear
-echo -e $red" WELCOME TO TOOLS SHADOW BOT.................................................................................................................................................."
-sleep 3
+echo -e $yellow" LOADING.........................................."
+sleep 2
 clear
 
-
-echo ""
-echo -e $red" t................................/"
+echo -e $red" WELCOME TO TOOLS SHADOW BOT......................................................................................"
+sleep 0.2
+clear
+echo -e $yellow" wELCOME TO TOOLS SHADOW BOT......................................................................................"
 sleep 0.1
 clear
-echo -e $yellow" tu.......................................-"
+echo -e $lightgreen" WeLCOME TO TOOLS SHADOW BOT......................................................................................."
 sleep 0.1
 clear
-echo -e $lightgreen" tun.............................................\"
+echo -e $red" WElCOME TO TOOLS SHADOW BOT.............................................................................................."
 sleep 0.1
 clear
-echo -e $red" tung........................................................./"
+echo -e $yellow" WELcOME TO TOOLS SHADOW BOT.............................................................................................."
 sleep 0.1
 clear
-echo -e $yellow" tungg.........................................................-"
+echo -e $lightgreen" WELCoME TO TOOLS SHADOW BOT..............................................................................................."
 sleep 0.1
 clear
-echo -e $lightgreen" tunggu...........................................................\"
+echo -e $red" WELCOmE TO TOOLS SHADOW BOT......................................................................................................."
 sleep 0.1
 clear
-echo -e $red" Tunggu.........................................................................-"
+echo -e $yellow" WELCOMe TO TOOLS SHADOW BOT...................................................................................................."
 sleep 0.1
 clear
-echo -e $yellow" tUnggu............................................................................../"
+echo -e $lightgreen" WELCOME tO TOOLS SHADOW BOT..................................................................................................."
 sleep 0.1
 clear
-echo -e $lightgreen" tuNggu..............................................................................\"
+echo -e $red" WELCOME To TOOLS SHADOW BOT.............................................................................................................."
 sleep 0.1
 clear
-echo -e $red" tunGgu............................................................................................../"
+echo -e $yellow" WELCOME TO tOOLS SHADOW BOT..............................................................................................................."
 sleep 0.1
 clear
-echo -e $yellow" tungGu.................................................................................................-"
+echo -e $lightgreen" WELCOME TO ToOLS SHADOW BOT..............................................................................................................."
 sleep 0.1
 clear
-echo -e $lightgreen" tunggU...................................................................................................\"
+echo -e $red" WELCOME TO TOoLS SHADOW BOT........................................................................................................................"
 sleep 0.1
 clear
-echo -e $red" TUNGGU................................................................................................................"
-sleep 3
+echo -e $yellow" WELCOME TO TOOlS SHADOW BOT........................................................................................................................."
+sleep 1
 clear
-exit
-}
-slowprint(W + '#'*45)
+echo -e $lightgreen" WELCOME TO TOOLs SHADOW BOT........................................................................................................................."
+sleep 0.1
+clear
+echo -e $red" WELCOME TO TOOLS sHADOW BOT.................................................................................................................................."
+sleep 0.1
+clear
+echo -e $yellow" WELCOME TO TOOLS ShADOW BOT.................................................................................................................................."
+slepp 0.1
+clear
+echo -e $lightgreen" WELCOME TO TOOLS SHaDOW BOT.................................................................................................................................."
+sleep 0.1
+clear
+echo -e $red" WELCOME TO TOOLS SHAdOW BOT.............................................................................................................................................."
+sleep 0.1
+clear
+echo -e $yellow" WELCOME TO TOOLS SHADoW BOT.............................................................................................................................................."
+sleep 0.1
+clear
+echo -e $lightgreen" WELCOME TO TOOLS SHADOw BOT................................................................................................................................................"
+sleep 0.1
+clear
+echo -e $red" WELCOME TO TOOLS SHADOW bOT........................................................................................................................................................"
+sleep 0.1
+clear
+echo -e $yellow" WELCOME TO TOOLS SHADOW BoT......................................................................................................................................................."
+sleep 0.1
+clear
+echo -e $lightgreen" WELCOME TO TOOLS SHADOW BOt......................................................................................................................................................."
+sleep 0.1
+clear
+echo -e $red" WELCOME TO TOOLS SHADOW BOT...................................................................................................................................................................."
+sleep 1
+clear
+echo -e $yellow"WELCOME TO TOOLS SHADOW BOt.........................................................................................................................................................."
+sleep 0.1
+clear
+echo -e $lightgreen" WELCOME TO TOOLS SHADOW BoT....................................................................................................................................................."
+sleep 0.1
+clear
+echo -e $red" WELCOME TO TOOLS SHADOW bOT................................................................................................................................................"
+sleep 0.1
+clear
+echo -e $yellow" WELCOME TO TOOLS SHADOw BOT.................................................................................................................................."
+sleep 0.1
+clear
+echo -e $lightgreen" WELCOME TO TOOLS SHADoW BOT......................................................................................................................."
+sleep 0.1
+clear
+echo -e $red" WELCOME TO TOOLS SHAdOW BOT........................................................................................................................"
+sleep 0.1
+clear
+echo -e $yellow" WELCOME TO TOOLS SHaDOW BOT..............................................................................................................."
+sleep 0.1
+clear
+echo -e $lightgreen" WELCOME TO TOOLS ShADOW BOT....................................................................................................."
+sleep 0.1
+clear
+echo -e $red" WELCOME TO TOOLS sHADOW BOT......................................................................................................"
+sleep 0.1
+clear
+echo -e $yellow" WELCOME TO TOOLs SHADOW BOT............................................................................................."
+sleep 0.1
+clear
+echo -e $lightgreen" WELCOME TO TOOlS SHADOW BOT................................................................................."
+sleep 0.1
+clear
+echo -e $red" WELCOME TO TOoLS SHADOW BOT..............................................................................."
+sleep 0.1
+clear
+echo -e $yellow" WELCOME TO ToOLS SHADOW BOT.................................................................."
+sleep 0.1
+clear
+echo -e $lightgreen" WELCOME TO tOOLS SHADOW BOT...................................................."
+sleep 0.1
+clear
+echo -e $red" WELCOME To WELCOME SHADOW BOT.............................................."
+sleep 0.1
+clear
+echo -e $yellow" WELCOME tO TOOLS SHADOW BOT........................................."
+sleep 0.1
+clear
+echo -e $lightgreen" WELCOMe TO TOOLS SHADOW BOT..................................."
+sleep 0.1
+clear
+echo -e $red" WELCOmE TO TOOLS SHADOW BOT........................................"
+sleep 0.1
+clear
+echo -e $yellow" WELCoME TO TOOLS SHADOW BOT...................................."
+sleep 0.1
+clear
+echo -e $lightgreen" WELcOME TO TOOLS SHADOW BOT.........................."
+sleep 0.1
+clear
+echo -e $red" WElCOME TO TOOLS SHADOW BOT............................."
+sleep 0.1
+clear
+echo -e $yellow" WeLCOME TO TOOLS SHADOW BOT.................."
+sleep 0.1
+clear
+echo -e $lightgreen" wELCOME TO TOOLS SHADOW BOT.............................................................................."
+sleep 0.1
+clear
+echo -e $red" WELCOME TO TOOLS SHADOW BOT...................................................................."
+sleep 2
+clear
 
 echo -e $red"          ###    #     #   ###   # ###      ###   #       #"
 echo -e $yellow"        #     #  #     # #     # #     #  #     # #   #   #"
