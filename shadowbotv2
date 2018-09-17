@@ -82,7 +82,7 @@ echo -e $red" lOADING..............................................."
 sleep 0.1
 clear
 echo -e $yellow" LOADING.........................................."
-sleep 2
+sleep 1
 clear
 
 echo -e $red" WELCOME TO TOOLS SHADOW BOT......................................................................................"
@@ -230,7 +230,7 @@ echo -e $lightgreen" wELCOME TO TOOLS SHADOW BOT................................
 sleep 0.1
 clear
 echo -e $red" WELCOME TO TOOLS SHADOW BOT...................................................................."
-sleep 2
+sleep 1
 clear
 
 echo -e $red"          ###    #     #   ###   # ###      ###   #       #"
@@ -1522,6 +1522,90 @@ sleep 1
 echo -e $red" Dengan Kekerasan Buktikanlah Dengan Prestasi ... "
 sleep 1
 echo -e $yellow" Tunggu bentar coy ... "
+sleep 0.1
+clear
+echo -e $yellow"tUnggu bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tuNggu bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunGgu bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tungGu bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggU bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu Bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bEntar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu beNtar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu benTar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentAr coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentaR coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentar Coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentar cOy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentar coY ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentar cOy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentar Coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentaR coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentAr coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu benTar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu beNtar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bEntar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu Bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggU bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tungGu bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunGgu bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tuNggu bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tUnggu bentar coy ..."
+sleep 0.1
+clear 
+echo -e $yellow"Tunggu bentar coy ..."
 sleep 1
 echo -e $yellow" Contact : +628816543235 "
 sleep 1
