@@ -32,355 +32,194 @@ echo -e $white"[#]> Shadow Bot  ... "
 read enter
 exit
 }
-echo -e $red
-echo "s./"
-sleep 0.5
-clear
-echo -e $yellow
-echo "sh..-"
-sleep 0.5
-clear
-echo -e $lightgreen
-echo "sha..\"
-sleep 0.5
-clear
-echo -e $red
-echo "shad../"
-sleep 0.5
-clear
-echo -e $yellow
-echo "shado..-";
-sleep 0.1;
-clear
-echo -e $lightgreen
-echo "shadow../";
-sleep 0.1;
-clear
-echo -e $red
-echo "shadow b..-";
-sleep 0.1;
-clear
-echo -e $yellow
-echo "shadow bo..\";
-sleep 0.1;
-clear
-echo -e $lightgreen
-echo "shadow bot..-";
-sleep 0.1;
-clear
-echo -e $red
-echo "shadow bot c../";
-sleep 0.1;
-clear
-echo -e $yellow
-echo "shadow bot ch..-";
-sleep 0.1;
-clear
-echo -e $lightgreen
-echo "shadow bot cha..\";
-sleep 0.1;
-clear
-echo -e $red
-echo "shadow bot chan..-";
-sleep 0.1;
-clear
-echo -e $yellow
-echo "shadow bot chann../";
-sleep 0.1;
-clear
-echo -e $lightgreen
-echo "shadow bot channe..-";
-sleep 0.1;
-clear
-echo -e $red
-echo "shadow bot channel..\";
-sleep 0.1;
-clear
-echo -e $yellow
-echo "shadow bot channel..-";
-sleep 0.1;
-clear
-echo -e $lightgreen
-echo "shadow bot channel.../";
-sleep 0.1;
-clear
-echo -e $red
-echo "shadow bot channel..../";
-sleep 0.1;
-clear
-echo -e $yellow
-echo 'Shadow bot channel.....-';
-sleep 0.1;
-clear
-echo -e $lightgreen
-echo 'sHadow bot channel.......\';
-sleep 0.1;
-clear
-echo -e $red
-echo "shAdow bot channel........./";
-sleep 0.1;
-clear
-echo -e $yellow
-echo 'shaDow bot channel..........-';
-sleep 0.1;
-clear
-echo -e $lightgreen
-echo 'shadOw bot channel...........\';
-sleep 0.1;
-clear
-echo -e $red
-echo "shadoW bot channel............/";
-sleep 0.1;
-clear
-echo -e $yellow
-echo "shadow Bot channel.............-";
-sleep 0.1;
-clear
-echo -e $lightgreen
-echo 'shadow bOt channel...............\';
-sleep 0.1;
-clear
-echo -e $red
-echo 'shadow boT channel.................-';
-sleep 0.1;
-clear
-echo -e $yellow
-echo "shadow bot Channel.................../";
-sleep 0.1;
-clear
-echo -e $lightgreen
-echo 'shadow bot cHannel....................-';
-sleep 0.1;
-clear
-echo -e $red
-echo 'shadow bot chAnneL......................\';
-sleep 0.1;
-clear
-echo -e $yellow
-echo "shadow bot chaNnel......................../";
-sleep 0.1;
-clear
-echo -e $lightgreen
-echo "shadow bot chanNel........................../";
-sleep 0.1;
-clear
-echo -e $red
-echo 'shadow bot channEl............................-';
-sleep 0.1;
-clear
-echo -e $yellow
-echo 'shadow bot channeL..............................\';
-sleep 0.1;
-clear
-echo -e $lightgreen
-echo "Shadow bot channel................................/";
-sleep 0.1;
-clear
-echo -e $red
-echo 'sHadow bot channel.................................-';
-sleep 0.1;
-clear
-echo -e $yellow
-echo 'shAdow channel......................................\';
-sleep 0.1;
-clear
-echo -e $lightgreen
-echo "shaDow bot channel.................................../";
-sleep 0.1;
-clear
-echo -e $red
-echo "shadOw bot channel...................................-";
-sleep 0.1;
-clear
-echo -e $yellow
-echo 'shadoW bot channel....................................\';
-sleep 0.1;
-clear
-echo -e $lightgreen
-echo 'shadow Bot channel.....................................-';
-sleep 0.1;
-clear
-echo -e $red
-echo "shadow bOt channel......................................./";
-sleep 0.1;
-clear
-echo -e $yellow
-echo 'shadow boT channel.........................................-';
-sleep 0.1;
-clear
-echo -e $lightgreen
-echo 'shadow bot Channel............................................\';
-sleep 0.1;
-clear
-echo -e $red
-echo "shadow bot cHannel............................................./";
-sleep 0.1;
-clear
-echo -e $yellow
-echo "shadow bot chAnnel.............................................../";
-sleep 0.1;
-clear
-echo -e $lightgreen
-echo 'shadow bot chaNnel................................................-';
-sleep 0.1;
-clear
-echo -e $red
-echo 'shadow bot chanNel..................................................\';
-sleep 0.1;
-clear
-echo -e $yellow
-echo "shadow bot channEl..................................................../";
-sleep 0.1;
-clear
-echo -e $lightgreen
-echo 'shadow bot channeL.....................................................-';
-sleep 0.1;
-clear
-echo -e $red
-echo 'shadow bot channel.......................................................\';
-sleep 0.1;
-clear
-echo -e $yellow
-echo "Shadow bot channel......................................................../";
-sleep 0.1;
-clear
-echo -e $lightgreen
-echo "sHadow bot channel..........................................................-";
-sleep 0.1;
-clear
-echo -e $red
-echo 'shAdow bot channel............................................................\';
-sleep 0.1;
-clear
-echo -e $yellow
-echo 'shaDow bot channel.............................................................-';
-sleep 0.1;
-clear
-echo -e $lightgreen
-echo "shadOw bot channel............................................................../";
-sleep 0.1;
-clear
-echo -e $red
-echo 'shadoW bot channel................................................................-';
-sleep 0.1;
-clear
-echo -e $yellow
-echo 'shadow Bot channel.................................................................\';
-sleep 0.1;
-clear
-echo -e $lightgreen
-echo "shadow bOt channel.................................................................../";
-sleep 0.1;
-clear
-echo -e $red
-echo "shadow boT channel...................................................................../";
-sleep 0.1;
-clear
-echo -e $yellow
-echo 'shadow bot Channel.......................................................................-';
-sleep 0.1;
-clear
-echo -e $lightgreen
-echo 'shadow bot cHannel.........................................................................\';
-sleep 0.1;
-clear
-echo -e $red
-echo "shadow bot chAnnel............................................................................./";
-sleep 0.1;
-clear
-echo -e $yellow
-echo 'shadow bot chaNnel...............................................................................-';
-sleep 0.1;
-clear
-echo -e $lightgreen
-echo 'shadow bot chanNel.................................................................................\';
-sleep 0.1;
-clear
-echo -e $red
-echo "shadow bot channEl.................................................................................../";
-sleep 0.1;
-clear
-echo -e $yellow
-echo "shadow bot channeL....................................................................................-";
-sleep 0.1;
-clear
-echo -e $lightgreen
-echo 'shadow bot channel.....................................................................................\';
-sleep 0.1;
-clear
-echo -e $red
-echo 'Shadow bot channel......................................................................................-';
-sleep 0.1;
-clear
-echo -e $yellow
-echo "sHadow bot channel......................................................................................./";
-sleep 0.1;
-clear
-echo -e $lightgreen
-echo 'shAdow bot channel.......................................................................................-';
-sleep 0.1;
-clear
-echo -e $red
-echo 'shaDow bot channel.......................................................................................\';
-sleep 0.1;
-clear
-echo -e $yellow
-echo "shadOw bot channel......................................................................................../";
-sleep 0.1;
-clear
-echo -e $lightgreen
-echo "shadoW bot channel........................................................................................./";
-sleep 0.1;
-clear
-echo -e $red
-echo 'shadow Bot channel..........................................................................................-';
-sleep 0.1;
-clear
-echo -e $yellow
-echo 'shadow bOt channel..........................................................................................\';
-sleep 0.1;
-clear
-echo -e $lightgreen
-echo "shadow boT channel........................................................................................./";
-sleep 0.1;
-clear
-echo -e $red
-echo 'shadow bot Channel..........................................................................................-';
-sleep 0.1;
-clear
-echo -e $yellow
-echo 'shadow bot cHannel...........................................................................................\';
-sleep 0.1;
-clear
-echo -e $lightgreen
-echo "shadow bot chAnnel.........................................................................................../";
-sleep 0.1;
-clear
-echo -e $red
-echo "shadow bot chaNnel............................................................................................-";
-sleep 0.1;
-clear
-echo -e $yellow
-echo 'shadow bot chanNel............................................................................................\";
-sleep 0.1;
-clear
-echo -e $lightgreen
-echo 'shadow bot channEl.............................................................................................-';
-sleep 0.1;
-clear
-echo -e $red
-echo "shadow bot channeL.............................................................................................../";
-sleep 0.1;
-clear
-echo -e $yellow
-echo 'shadow bot channel................................................................................................-';
-sleep 0.1;
-clear
-echo -e $lightgreen
-echo 'shadow bot channel....................................................................................................\';
-sleep 0.1;
+
+echo -e $yellow" w../"
+sleep 0.1
+clear
+echo -e $lightgreen" we..-"
+sleep 0.1
+clear
+echo -e $red" wel...\"
+sleep 0.1
+clear
+echo -e $yellow" welc.../"
+sleep 0.1
+clear
+echo -e $lightgreen" welco....\"
+sleep 0.1
+clear
+echo -e $red" welcom.....-"
+sleep 0.1
+clear
+echo -e $yellow" welcome..../"
+sleep 0.1
+clear
+echo -e $lightgreen" welcome t.....\"
+sleep 0.1
+clear
+echo -e $red" welcome to......-"
+sleep 0.1
+clear
+echo -e $yellow" welcome to t......./"
+sleep 0.1
+clear
+echo -e $lightgreen" welcome to to.......-"
+sleep 0.1
+clear
+echo -e $red" welcome to too........\"
+sleep 0.1
+clear
+echo -e $yellow" welcome to tool.........-"
+sleep 0.1
+clear
+echo -e $lightgreen" welcome to tools........../"
+sleep 0.1
+clear
+echo -e $red" welcome to tools s...........\"
+sleep 0.1
+clear
+echo -e $yellow" welcome to tools sh............/"
+sleep 0.1
+clear
+echo -e $lightgreen" welcome to tools sha.............-"
+sleep 0,1
+clear
+echo -e $red" welcome to tools shad..............\"
+sleep 0.1
+clear
+echo -e $yellow" welcome to tools shado.............../"
+sleep 0.1
+clear
+echo -e $lightgreen" welcome to tools shadow.................-"
+sleep 0.1
+clear
+echo -e $red" welcome to tools shadow b.................\"
+sleep 0.1
+clear
+echo -e $yellow" welcome to tools shadow bo................./"
+sleep 0.1
+clear
+echo -e $lightgreen" welcome to tools shadow bo..................-"
+sleep 0.1
+clear
+echo -e $red" welcome to tools shadow bot.....................\"
+sleep 0.1
+clear
+echo -e $yellow" Welcome to tools shadow bot..................../"
+sleep 0.1
+clear
+echo -e $lightgreen" wElcome to tools shadow bot....................-"
+sleep 0.1
+clear
+echo -e $red" weLcome to tools shadpw bot............................\"
+sleep 0.1
+clear
+echo -e $yellow" welCome to tools shadow bot............................-"
+sleep 0.1
+clear
+echo -e $lightgreen" welcOme to tools shadow bot............................../"
+sleep 0.1
+clear
+echo -e $red" welcoMe to tools shadow bot......................................\"
+sleep 0.1
+clear
+echo -e $yellow" welcomE to tools shadow bot......................................../"
+sleep 0.1
+clear
+echo -e $lightgreen" welcome To tools shadow bot..........................................-"
+sleep 0.1
+clear
+echo -e $red" welcome tO tools shadow bot..................................................\"
+sleep 0.1
+clear
+echo -e $yellow" welcome to Tools shadow bot...................................................-"
+sleep 0.1
+clear
+echo -e $lightgreen" welcome to tOols shadow bot.................................................../"
+sleep 0.1
+clear
+echo -e $red" welcome to toOls shadow bot..............................................................\"
+sleep 0.1
+clear
+echo -e $yellow" welcome to tooLs shadow bot............................................................./"
+sleep 0.1
+clear
+echo -e $lightgreen" welcome to toolS shadow bot..............................................................-"
+sleep 0.1
+clear
+echo -e $red" welcome to tools Shadow bot.......................................................................\"
+sleep 0.1
+clear
+echo -e $yellow" welcome to tools sHadow bot........................................................................./"
+sleep 0.1
+clear
+echo -e $lightgreen" welcome to tools shAdow bot.........................................................................-"
+sleep 0.1
+clear
+echo -e $red" welcome to tools shaDow bot.......................................................................................\"
+sleep 0.1
+clear
+echo -e $yellow" welcome to tools shadOw bot............................................................................................/"
+sleep 0.1
+clear
+echo -e $lightgreen" welcome to tools shadoW bot.............................................................................................-"
+sleep 0.1
+clear
+echo -e $red" welcome to tools shadow Bot........................................................................................................\"
+sleep 0.1
+clear
+echo -e $yellow" welcome to tools shadow bOt................................................................................................................-"
+sleep 0.1
+clear
+echo -e $lightgreen" welcome to tools shadow boT....................................................................................................................../"
+sleep 0.1
+clear
+echo -e $red" WELCOME TO TOOLS SHADOW BOT.................................................................................................................................................."
+sleep 3
 clear
 
+
+echo ""
+echo -e $red" t................................/"
+sleep 0.1
+clear
+echo -e $yellow" tu.......................................-"
+sleep 0.1
+clear
+echo -e $lightgreen" tun.............................................\"
+sleep 0.1
+clear
+echo -e $red" tung........................................................./"
+sleep 0.1
+clear
+echo -e $yellow" tungg.........................................................-"
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu...........................................................\"
+sleep 0.1
+clear
+echo -e $red" Tunggu.........................................................................-"
+sleep 0.1
+clear
+echo -e $yellow" tUnggu............................................................................../"
+sleep 0.1
+clear
+echo -e $lightgreen" tuNggu..............................................................................\"
+sleep 0.1
+clear
+echo -e $red" tunGgu............................................................................................../"
+sleep 0.1
+clear
+echo -e $yellow" tungGu.................................................................................................-"
+sleep 0.1
+clear
+echo -e $lightgreen" tunggU...................................................................................................\"
+sleep 0.1
+clear
+echo -e $red" TUNGGU................................................................................................................"
+sleep 3
+clear
+echo ""
 echo -e $red"          ###    #     #   ###   # ###      ###   #       #"
 echo -e $yellow"        #     #  #     # #     # #     #  #     # #   #   #"
 echo -e $lightgreen"        # ###    # ### # # ### # #      # #     # #  # #  #"
@@ -402,6 +241,7 @@ echo -e $white"     =================================================="
 
 
 echo ""
+echo -e $red
 echo -e $yellow" [<]==============================[>]"
 echo -e $red"  Silahkan Pilih Tools Yang Lu Suka Coy ..."
 echo -e $yellow" [<]==============================[>]"
