@@ -541,6 +541,8 @@ echo " Fix network please wait "
 sleep 1
 echo "nameserver 8.8.8.8" > /data/data/com.termux/files/home/termux-ubuntu/ubuntu-fs/etc/resolv.conf
 echo -e $yellow" Selesai Install Coy ... "
+sleep 2
+./shadowbotv2
 fi
 
 if [ $act = 09 ] || [ $act = 09 ]
