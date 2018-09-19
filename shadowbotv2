@@ -432,6 +432,8 @@ apt install php
 apt install git
 git clone https://github.com/Tuhinshubhra/RED_HAWK
 echo -e $yellow" Selesai Install Coy ... "
+sleep 1
+./shadowbotv2
 fi
 
 if [ $act = 02 ] || [ $act = 02 ]
@@ -444,6 +446,8 @@ apt-get install git
 apt-get install python
 git clone https://github.com/shawarkhanethicalhacker/D-TECT
 echo -e $yellow" Selesai Install Coy ... "
+sleep 1
+./shadowbotv2
 fi
 
 if [ $act = 03 ] || [ $act = 03 ]
@@ -456,6 +460,8 @@ apt install python
 apt install git
 git clone https://github.com/b3-v3r/Hunner
 echo -e $yellow" Selesai Install Coy ... "
+sleep 1
+./shadowbotv2
 fi
 
 if [ $act = 04 ] || [ $act = 04 ]
@@ -475,6 +481,8 @@ bundle install
 ruby wpscan.rb --update
 cd ~/
 echo -e $yellow" Selesai Install Coy ... "
+sleep 1
+./shadowbotv2
 fi
 
 if [ $act = 05 ] || [ $act = 05 ]
@@ -494,6 +502,8 @@ wget https://pastebin.com/raw/HnVyQPtR -O webdav.py
 chmod 777 webdav.py
 cd ~/
 echo -e $yellow" Selesai Install Coy ... "
+sleep 1
+./shadowbotv2
 fi
 
 if [ $act = 06 ] || [ $act = 06 ]
