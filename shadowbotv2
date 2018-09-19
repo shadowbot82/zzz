@@ -42,7 +42,7 @@ figlet "2"
 sleep 1
 clear
 echo ""
-echo -e lightgreen
+echo -e $lightgreen
 figlet "3"
 sleep 1
 clear
