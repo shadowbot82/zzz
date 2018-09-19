@@ -251,10 +251,9 @@ echo -e $white"                  -Indonesia Cyber Army   #"
 echo -e $red"                        version 1.0"
 
 echo -e $white"     =================================================="
-
+sleep 5
 
 echo ""
-echo -e $red
 echo -e $yellow" [<]==============================[>]"
 echo -e $lightgreen" Silahkan pilih tools yang lu suka coy ..."
 sleep 0.1
