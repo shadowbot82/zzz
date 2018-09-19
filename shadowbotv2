@@ -32,18 +32,19 @@ echo -e $white"[#]> Shadow Bot  ... "
 read enter
 exit
 }
-
-echo ""
 echo -e $red
 figlet "1"
+sleep 1
 clear
 echo ""
 echo -e $yellow
 figlet "2"
+sleep 1
 clear
 echo ""
 echo -e lightgreen
 figlet "3"
+sleep 1
 clear
 
 echo -e $red" Tunggu bentar coy ... "
