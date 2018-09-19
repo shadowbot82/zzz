@@ -33,6 +33,455 @@ read enter
 exit
 }
 
+echo ""
+echo -e $red
+figlet "1"
+clear
+echo ""
+echo -e $yellow
+figlet "2"
+clear
+echo ""
+echo -e lightgreen
+figlet "3"
+clear
+
+echo -e $red" Tunggu bentar coy ... "
+sleep 0.1
+clear
+echo -e $yellow"tUnggu bentar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tuNggu bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunGgu bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tungGu bentar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggU bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu Bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bEntar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu beNtar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu benTar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentAr coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentaR coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentar Coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentar cOy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentar coY ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentar cOy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentar Coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentaR coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentAr coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu benTar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu beNtar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bEntar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu Bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggU bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tungGu bentar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunGgu bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" tuNggu bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tUnggu bentar coy ..."
+sleep 0.1
+clear 
+echo -e $lightgreen"Tunggu bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" Tunggu bentar coy ... "
+sleep 0.1
+clear
+echo -e $yellow"tUnggu bentar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tuNggu bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunGgu bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tungGu bentar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggU bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu Bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bEntar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu beNtar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu benTar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentAr coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentaR coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentar Coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentar cOy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentar coY ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentar cOy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentar Coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentaR coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentAr coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu benTar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu beNtar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bEntar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu Bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggU bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tungGu bentar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunGgu bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" tuNggu bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tUnggu bentar coy ..."
+sleep 0.1
+clear 
+echo -e $lightgreen"Tunggu bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" Tunggu bentar coy ... "
+sleep 0.1
+clear
+echo -e $yellow"tUnggu bentar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tuNggu bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunGgu bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tungGu bentar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggU bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu Bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bEntar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu beNtar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu benTar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentAr coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentaR coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentar Coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentar cOy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentar coY ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentar cOy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentar Coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentaR coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentAr coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu benTar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu beNtar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bEntar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu Bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggU bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tungGu bentar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunGgu bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" tuNggu bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tUnggu bentar coy ..."
+sleep 0.1
+clear 
+echo -e $lightgreen"Tunggu bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" Tunggu bentar coy ... "
+sleep 0.1
+clear
+echo -e $yellow"tUnggu bentar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tuNggu bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunGgu bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tungGu bentar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggU bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu Bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bEntar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu beNtar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu benTar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentAr coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentaR coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentar Coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentar cOy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentar coY ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentar cOy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentar Coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentaR coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentAr coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu benTar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu beNtar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bEntar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu Bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggU bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tungGu bentar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunGgu bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" tuNggu bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tUnggu bentar coy ..."
+sleep 0.1
+clear 
+echo -e $lightgreen"Tunggu bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" Tunggu bentar coy ... "
+sleep 0.1
+clear
+echo -e $yellow"tUnggu bentar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tuNggu bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunGgu bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tungGu bentar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggU bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu Bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bEntar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu beNtar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu benTar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentAr coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentaR coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentar Coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentar cOy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentar coY ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentar cOy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentar Coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentaR coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentAr coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu benTar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu beNtar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bEntar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu Bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggU bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tungGu bentar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunGgu bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" tuNggu bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tUnggu bentar coy ..."
+sleep 0.1
+clear 
+echo -e $lightgreen"Tunggu bentar coy ..."
+sleep 0.3
+clear
+
 echo -e $red" LOADING....."
 sleep 0.2
 clear
@@ -230,7 +679,7 @@ echo -e $lightgreen" wELCOME TO TOOLS SHADOW BOT................................
 sleep 0.1
 clear
 echo -e $red" WELCOME TO TOOLS SHADOW BOT...................................................................."
-sleep 1
+sleep 2
 clear
 
 echo -e $red"          ###    #     #   ###   # ###      ###   #       #"
@@ -241,20 +690,23 @@ echo -e $yellow"        ### #    #     # #     # # ###      ###   #       #"
 
 echo -e $white"    =================================================="
 
-echo -e $red"      # Name     : Shadow Bot            #"
-echo -e $red"      # Team     : INDEPENDENT TEAM      #"
-echo -e $white"      # Contact  : +628816543235         #"
-echo -e $white"      # Youtube  : SHADOW BOT CHANNEL    #"
+echo -e $red"      # Name     : Shadow Bot             #"
+echo -e $red"      # Team     : INDEPENDENT TEAM       #"
+echo -e $white"      # Contact  : +628816543235          #"
+echo -e $white"      # Youtube  : SHADOW BOT CHANNEL     #"
 
-echo -e $red"      # Thanks To : -Hidden Ghost Team   #"
-echo -e $white"                  -Indonesia Cyber Army   #"
+echo -e $red"      # Thanks To : -Hidden Ghost Team    #"
+echo -e $white"                    -Indonesia Cyber Army #"
 echo -e $red"                        version 1.0"
 
 echo -e $white"     =================================================="
 
 echo ""
-echo -e $red" Kunjungi Channel Saya Klik Link Di Bawah :)"
-echo -e $lightgreen" <a href="https://www.youtube.com/c/SHADOWBOTCHANNEL"> SHADOW BOT CHANNEL </a>"
+sleep 1
+echo -e $red" Kunjungi Channel Saya :)"
+sleep 1
+echo -e $lightgreen" https://www.youtube.com/c/SHADOWBOTCHANNEL"
+sleep 1
 
 echo ""
 echo -e $yellow" [<]==============================[>]"
@@ -8288,6 +8740,354 @@ echo -e $yellow" tUnggu bentar coy ..."
 sleep 0.1
 clear 
 echo -e $lightgreen"Tunggu bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" Tunggu bentar coy ... "
+sleep 0.1
+clear
+echo -e $yellow"tUnggu bentar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tuNggu bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunGgu bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tungGu bentar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggU bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu Bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bEntar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu beNtar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu benTar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentAr coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentaR coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentar Coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentar cOy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentar coY ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentar cOy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentar Coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentaR coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentAr coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu benTar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu beNtar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bEntar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu Bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggU bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tungGu bentar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunGgu bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" tuNggu bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tUnggu bentar coy ..."
+sleep 0.1
+clear 
+echo -e $lightgreen"Tunggu bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" Tunggu bentar coy ... "
+sleep 0.1
+clear
+echo -e $yellow"tUnggu bentar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tuNggu bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunGgu bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tungGu bentar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggU bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu Bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bEntar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu beNtar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu benTar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentAr coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentaR coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentar Coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentar cOy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentar coY ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentar cOy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentar Coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentaR coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentAr coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu benTar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu beNtar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bEntar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu Bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggU bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tungGu bentar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunGgu bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" tuNggu bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tUnggu bentar coy ..."
+sleep 0.1
+clear 
+echo -e $lightgreen"Tunggu bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" Tunggu bentar coy ... "
+sleep 0.1
+clear
+echo -e $yellow"tUnggu bentar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tuNggu bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunGgu bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tungGu bentar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggU bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu Bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bEntar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu beNtar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu benTar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentAr coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentaR coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentar Coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentar cOy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentar coY ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentar cOy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentar Coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentaR coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentAr coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu benTar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu beNtar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bEntar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu Bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggU bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tungGu bentar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunGgu bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" tuNggu bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tUnggu bentar coy ..."
+sleep 0.1
+clear 
+echo -e $lightgreen"Tunggu bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" Tunggu bentar coy ... "
+sleep 0.1
+clear
+echo -e $yellow"tUnggu bentar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tuNggu bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunGgu bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tungGu bentar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggU bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu Bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bEntar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu beNtar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu benTar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentAr coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentaR coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentar Coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentar cOy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentar coY ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentar cOy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentar Coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentaR coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentAr coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu benTar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggu beNtar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bEntar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu Bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" tunggU bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tungGu bentar coy ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunGgu bentar coy ..."
+sleep 0.1
+clear
+echo -e $red" tuNggu bentar coy ..."
+sleep 0.1
+clear
+echo -e $yellow" tUnggu bentar coy ..."
+sleep 0.1
+clear 
+echo -e $lightgreen"Tunggu bentar coy ..."
 sleep 2
 clear
 echo -e $red" Salam Penutup Buat Lu.. "
@@ -8305,6 +9105,6 @@ sleep 1
 echo -e $lightgreen" Sampai jumpa di lain waktu :) "
 sleep 1
 echo -e $lightgreen" Thank You ^_^ "
-sleep 1
+sleep 2
 exit
 fi
