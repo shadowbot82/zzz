@@ -46,6 +46,14 @@ echo -e $lightgreen
 figlet "3"
 sleep 1
 clear
+echo -e $red
+figlet "4"
+sleep 1
+clear
+echo -e $yellow
+figlet "5"
+sleep 1
+clear
 
 echo -e $red" Tunggu bentar coy ... "
 sleep 0.1
@@ -690,7 +698,7 @@ echo -e $red"      #      #   #     # #     # #     #  #     # # #   # #"
 echo -e $yellow"        ### #    #     # #     # # ###      ###   #       #"
 
 echo -e $white"    =================================================="
-
+sleep 1
 echo -e $red"      # Name     : Shadow Bot             #"
 echo -e $red"      # Team     : INDEPENDENT TEAM       #"
 echo -e $white"      # Contact  : +628816543235          #"
@@ -699,11 +707,10 @@ echo -e $white"      # Youtube  : SHADOW BOT CHANNEL     #"
 echo -e $red"      # Thanks To : -Hidden Ghost Team    #"
 echo -e $white"                    -Indonesia Cyber Army #"
 echo -e $red"                        version 1.0"
-
-echo -e $white"     =================================================="
-
-echo ""
 sleep 1
+echo -e $white"     =================================================="
+sleep 1
+echo ""
 echo -e $red" Kunjungi Channel Saya :)"
 sleep 1
 echo -e $lightgreen" https://www.youtube.com/c/SHADOWBOTCHANNEL"
