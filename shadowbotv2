@@ -32,6 +32,7 @@ echo -e $white"[#]> Shadow Bot  ... "
 read enter
 exit
 }
+echo -e $
 echo -e $red
 figlet "1"
 sleep 1
@@ -896,6 +897,38 @@ echo -e $red"[+]=================================[+]"
 echo -e $white" 86) Nuyul BTC"
 echo -e $yellow"[+]=================================[+]"
 echo -e $red" 87) Tembak Paket Axis & XL"
+echo -e $lightgreen"[+]=================================[+]"
+echo -e $yellow" 88) Commix"
+echo -e $white"[+]=================================[+]"
+echo -e $lightgreen" 89) Web Toolkit Framework"
+echo -e $red"[+]=================================[+]"
+echo -e $white" 90) BTC-to-IDR"
+echo -e $yellow"[+]=================================[+]"
+echo -e $red" 91) CyberScan"
+echo -e $lightgreen"[+]=================================[+]"
+echo -e $yellow" 92) 1337Rat"
+echo -e $white"[+]=================================[+]"
+echo -e $lightgreen" 93) Nuyul Caping"
+echo -e $red"[+]=================================[+]"
+echo -e $white" 94) Dost "
+echo -e $yellow"[+]=================================[+]"
+echo -e $red" 95) Gasmask"
+echo -e $lightgreen"[+]=================================[+]"
+echo -e $yellow" 96) Optiva-Framework"
+echo -e $white"[+]=================================[+]"
+echo -e $lightgreen" 97) The Harvester"
+echo -e $red"[+]=================================[+]"
+echo -e $white" 98) TrackOut"
+echo -e $yellow"[+]=================================[+]"
+echo -e $red" 99) IP-FY"
+echo -e $lightgreen"[+]=================================[+]"
+echo -e $yellow" 100) 53R3N17Y"
+echo -e $white"[+]=================================[+]"
+echo -e $lightgreen" 101) Locator"
+echo -e $red"[+]=================================[+]"
+echo -e $white" 102) Choicebot"
+echo -e $yellow"[+]=================================[+]"
+echo -e $red" 103) GoblinWordGenerator"
 echo -e $lightgreen"[+]=================================[+]"
 
 echo -e ""
@@ -8660,9 +8693,1374 @@ sleep 3
 ./shadowbotv2
 fi
 
+if [ $act = 88 ] || [ $act = 88 ]
+then
+clear
+echo -e $red" tunggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" Tunggu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tUnggu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tuNggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunGgu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tungGu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tunggU bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu Bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bEntar ..."
+sleep 0.1
+clear
+echo -e $red" tunggu beNtar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu benTar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentAr ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentaR ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentar ..."
+sleep 0.1
+clear
+clear 
+echo -e $lightgreen" tunggu bentAr ..."
+sleep 0.1
+clear
+echo -e $red" tunggu beNtar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bEntar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu Bentar ..."
+sleep 0.1
+clear
+echo -e $red" tunggU bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tungGu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunGgu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tuNggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tUnggu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" Tunggu bentar ..."
+sleep 3
+clear
+echo -e $lightgreen" Installing Commix "
+sleep 1
+git clone https://github.com/commixproject/commix.git
+sleep 1
+echo -e $yellow" Selesai Install Coy ... "
+sleep 3
+./shadowbotv2
+fi
+
+if [ $act = 89 ] || [ $act = 89 ]
+then
+clear
+echo -e $red" tunggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" Tunggu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tUnggu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tuNggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunGgu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tungGu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tunggU bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu Bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bEntar ..."
+sleep 0.1
+clear
+echo -e $red" tunggu beNtar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu benTar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentAr ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentaR ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentar ..."
+sleep 0.1
+clear
+clear 
+echo -e $lightgreen" tunggu bentAr ..."
+sleep 0.1
+clear
+echo -e $red" tunggu beNtar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bEntar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu Bentar ..."
+sleep 0.1
+clear
+echo -e $red" tunggU bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tungGu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunGgu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tuNggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tUnggu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" Tunggu bentar ..."
+sleep 3
+clear
+echo -e $lightgreen" Installing WTF"
+sleep 1
+git clone https://github.com/Xi4u7/wtf.git
+pip2 install -r requirements.txt
+pip2 install mechanize 
+sleep 1
+echo -e $yellow" Selesai Install Coy ..."
+sleep 3
+./shadowbotv2
+fi
+
+if [ $act = 90 ] || [ $act = 90 ]
+then
+clear
+echo -e $red" tunggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" Tunggu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tUnggu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tuNggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunGgu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tungGu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tunggU bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu Bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bEntar ..."
+sleep 0.1
+clear
+echo -e $red" tunggu beNtar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu benTar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentAr ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentaR ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentar ..."
+sleep 0.1
+clear
+clear 
+echo -e $lightgreen" tunggu bentAr ..."
+sleep 0.1
+clear
+echo -e $red" tunggu beNtar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bEntar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu Bentar ..."
+sleep 0.1
+clear
+echo -e $red" tunggU bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tungGu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunGgu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tuNggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tUnggu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" Tunggu bentar ..."
+sleep 3
+clear
+echo -e $lightreen" Installing BTC-to-IDR"
+sleep 1
+git clone https://github.com/bayufedra/BTC-to-IDR-checker.git
+sleep 1
+echo -e $yellow" Selesai Install Coy ..."
+sleep 3
+./shadowbotv2
+fi
+
+if [ $act = 91 ] || [ $act = 91 ]
+then
+clear
+echo -e $red" tunggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" Tunggu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tUnggu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tuNggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunGgu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tungGu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tunggU bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu Bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bEntar ..."
+sleep 0.1
+clear
+echo -e $red" tunggu beNtar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu benTar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentAr ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentaR ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentar ..."
+sleep 0.1
+clear
+clear 
+echo -e $lightgreen" tunggu bentAr ..."
+sleep 0.1
+clear
+echo -e $red" tunggu beNtar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bEntar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu Bentar ..."
+sleep 0.1
+clear
+echo -e $red" tunggU bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tungGu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunGgu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tuNggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tUnggu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" Tunggu bentar ..."
+sleep 3
+clear
+echo -e $lightgreen" Installing CyberScan"
+sleep 1
+git clone https://github.com/medbenali/CyberScan.git
+sleep 1
+echo -e $yellow" Selesai Install Coy ..."
+sleep 3
+./shadowbotv2
+fi
+
+if [ $act = 92 ] || [ $act = 91 ]
+then 
+clear
+echo -e $red" tunggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" Tunggu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tUnggu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tuNggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunGgu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tungGu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tunggU bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu Bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bEntar ..."
+sleep 0.1
+clear
+echo -e $red" tunggu beNtar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu benTar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentAr ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentaR ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentar ..."
+sleep 0.1
+clear
+clear 
+echo -e $lightgreen" tunggu bentAr ..."
+sleep 0.1
+clear
+echo -e $red" tunggu beNtar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bEntar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu Bentar ..."
+sleep 0.1
+clear
+echo -e $red" tunggU bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tungGu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunGgu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tuNggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tUnggu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" Tunggu bentar ..."
+sleep 3
+clear
+echo -e $lightgreen" Installing 1337Rat"
+sleep 1
+git clone https://github.com/Xi4u7/1337Rat.git
+sleep 1
+echo -e $yellow" Selesai Install Coy ..."
+sleep 3
+./shadowbotv2
+fi
+
+if [ $act = 93 ] || [ $act = 93 ]
+then
+clear
+echo -e $red" tunggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" Tunggu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tUnggu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tuNggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunGgu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tungGu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tunggU bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu Bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bEntar ..."
+sleep 0.1
+clear
+echo -e $red" tunggu beNtar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu benTar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentAr ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentaR ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentar ..."
+sleep 0.1
+clear
+clear 
+echo -e $lightgreen" tunggu bentAr ..."
+sleep 0.1
+clear
+echo -e $red" tunggu beNtar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bEntar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu Bentar ..."
+sleep 0.1
+clear
+echo -e $red" tunggU bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tungGu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunGgu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tuNggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tUnggu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" Tunggu bentar ..."
+sleep 3
+clear
+echo -e $lightgreen" Installing Nuyul Caping"
+sleep 1
+git clone https://github.com/shadowbot82/caping.git
+sleep 1
+echo -e $yellow" Selesai Install Coy ..."
+sleep 3
+./shadowbotv2
+fi
+
+if [ $act = 94 ] || [ $act = 94 ]
+then
+clear
+echo -e $red" tunggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" Tunggu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tUnggu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tuNggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunGgu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tungGu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tunggU bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu Bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bEntar ..."
+sleep 0.1
+clear
+echo -e $red" tunggu beNtar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu benTar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentAr ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentaR ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentar ..."
+sleep 0.1
+clear
+clear 
+echo -e $lightgreen" tunggu bentAr ..."
+sleep 0.1
+clear
+echo -e $red" tunggu beNtar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bEntar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu Bentar ..."
+sleep 0.1
+clear
+echo -e $red" tunggU bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tungGu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunGgu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tuNggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tUnggu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" Tunggu bentar ..."
+sleep 3
+clear
+echo -e $lightgreen" Installing Dost"
+sleep 1
+git clone https://github.com/verluchie/dost-attack.git
+sleep 1
+echo -e $yellow" Selesai Install Coy ..."
+sleep 3
+./shadowbotv2
+fi
+
+if [ $act = 95 ] || [ $act = 95 ]
+then
+clear
+echo -e $red" tunggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" Tunggu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tUnggu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tuNggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunGgu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tungGu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tunggU bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu Bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bEntar ..."
+sleep 0.1
+clear
+echo -e $red" tunggu beNtar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu benTar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentAr ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentaR ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentar ..."
+sleep 0.1
+clear
+clear 
+echo -e $lightgreen" tunggu bentAr ..."
+sleep 0.1
+clear
+echo -e $red" tunggu beNtar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bEntar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu Bentar ..."
+sleep 0.1
+clear
+echo -e $red" tunggU bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tungGu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunGgu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tuNggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tUnggu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" Tunggu bentar ..."
+sleep 3
+clear
+echo -e $lightgreen" Installing Gasmask"
+sleep 1
+git clone https://github.com/twelvesec/gasmask.git
+pip2 install -r requirements.txt
+sleep 1
+echo -e $yellow" Selesai Install Coy ..."
+sleep 3
+./shadowbotv2
+fi
+
+if [ $act = 96 ] || [ $act = 96 ]
+then
+clear
+echo -e $red" tunggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" Tunggu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tUnggu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tuNggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunGgu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tungGu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tunggU bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu Bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bEntar ..."
+sleep 0.1
+clear
+echo -e $red" tunggu beNtar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu benTar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentAr ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentaR ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentar ..."
+sleep 0.1
+clear
+clear 
+echo -e $lightgreen" tunggu bentAr ..."
+sleep 0.1
+clear
+echo -e $red" tunggu beNtar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bEntar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu Bentar ..."
+sleep 0.1
+clear
+echo -e $red" tunggU bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tungGu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunGgu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tuNggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tUnggu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" Tunggu bentar ..."
+sleep 3
+clear
+echo -e $lightgreen" Installing Optiva-Framework"
+sleep 1
+git clone https://github.com/T4P4N/Optiva-Framework.git
+sleep 1
+echo -e $yellow" Selesai Install Coy ..."
+sleep 3
+./shadowbotv2
+fi
+
+if [ $act = 97 ] || [ $act = 97 ]
+then
+clear
+echo -e $red" tunggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" Tunggu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tUnggu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tuNggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunGgu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tungGu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tunggU bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu Bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bEntar ..."
+sleep 0.1
+clear
+echo -e $red" tunggu beNtar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu benTar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentAr ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentaR ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentar ..."
+sleep 0.1
+clear
+clear 
+echo -e $lightgreen" tunggu bentAr ..."
+sleep 0.1
+clear
+echo -e $red" tunggu beNtar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bEntar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu Bentar ..."
+sleep 0.1
+clear
+echo -e $red" tunggU bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tungGu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunGgu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tuNggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tUnggu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" Tunggu bentar ..."
+sleep 3
+clear
+echo -e $lightgreen" Installing The-Harvester"
+sleep 1
+pip2 install requests
+git clone https://github.com/laramies/theHarvester.git
+sleep 1
+echo -e $yellow" Selesai Install Coy ..."
+sleep 3
+./shadowbotv2
+fi
+
+if [ $act = 98 ] || [ $act = 98 ]
+then
+clear
+echo -e $red" tunggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" Tunggu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tUnggu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tuNggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunGgu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tungGu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tunggU bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu Bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bEntar ..."
+sleep 0.1
+clear
+echo -e $red" tunggu beNtar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu benTar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentAr ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentaR ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentar ..."
+sleep 0.1
+clear
+clear 
+echo -e $lightgreen" tunggu bentAr ..."
+sleep 0.1
+clear
+echo -e $red" tunggu beNtar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bEntar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu Bentar ..."
+sleep 0.1
+clear
+echo -e $red" tunggU bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tungGu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunGgu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tuNggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tUnggu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" Tunggu bentar ..."
+sleep 3
+clear
+echo -e $lightgreen" Installing TrackOut"
+sleep 1
+git clone https://github.com/abaykan/TrackOut.git
+sleep 1
+echo -e $yellow" Selesai Install Coy ..."
+sleep 3
+./shadowbotv2
+fi
+
+if [ $act = 99 ] || [ $act = 99 ]
+then
+clear
+echo -e $red" tunggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" Tunggu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tUnggu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tuNggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunGgu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tungGu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tunggU bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu Bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bEntar ..."
+sleep 0.1
+clear
+echo -e $red" tunggu beNtar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu benTar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentAr ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentaR ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentar ..."
+sleep 0.1
+clear
+clear 
+echo -e $lightgreen" tunggu bentAr ..."
+sleep 0.1
+clear
+echo -e $red" tunggu beNtar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bEntar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu Bentar ..."
+sleep 0.1
+clear
+echo -e $red" tunggU bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tungGu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunGgu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tuNggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tUnggu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" Tunggu bentar ..."
+sleep 3
+clear
+echo -e $lightgreen" Installing IP-FY"
+sleep 1
+git clone https://github.com/T4P4N/IP-FY.git
+sleep 1
+echo -e $yellow" Selesai Install Coy ..."
+sleep 3
+./shadowbotv2
+fi
+
+if [ $act = 100 ] || [ $act = 100 ]
+then
+clear
+echo -e $red" tunggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" Tunggu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tUnggu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tuNggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunGgu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tungGu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tunggU bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu Bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bEntar ..."
+sleep 0.1
+clear
+echo -e $red" tunggu beNtar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu benTar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentAr ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentaR ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentar ..."
+sleep 0.1
+clear
+clear 
+echo -e $lightgreen" tunggu bentAr ..."
+sleep 0.1
+clear
+echo -e $red" tunggu beNtar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bEntar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu Bentar ..."
+sleep 0.1
+clear
+echo -e $red" tunggU bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tungGu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunGgu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tuNggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tUnggu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" Tunggu bentar ..."
+sleep 3
+clear
+echo -e $lightgreen" Installing 53R3N17Y"
+sleep 1
+git clone https://github.com/abaykan/53R3N17Y.git
+apt install python2
+pip2 install -r requirements.txt
+sleep 1
+echo -e $yellow" Selesai Install Coy ..."
+sleep 3
+./shadowbotv2
+fi
+
+if [ $act = 101 ] || [ $act = 101 ]
+then
+clear
+echo -e $red" tunggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" Tunggu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tUnggu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tuNggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunGgu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tungGu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tunggU bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu Bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bEntar ..."
+sleep 0.1
+clear
+echo -e $red" tunggu beNtar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu benTar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentAr ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentaR ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentar ..."
+sleep 0.1
+clear
+clear 
+echo -e $lightgreen" tunggu bentAr ..."
+sleep 0.1
+clear
+echo -e $red" tunggu beNtar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bEntar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu Bentar ..."
+sleep 0.1
+clear
+echo -e $red" tunggU bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tungGu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunGgu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tuNggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tUnggu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" Tunggu bentar ..."
+sleep 3
+clear
+echo -e $lightgreen" Installing Locator "
+sleep 1
+git clone https://github.com/thelinuxchoice/locator
+sleep 1
+echo -e $yellow" Selesai Install Coy ..."
+sleep 3
+./shadowbotv2
+fi
+
+if [ $act = 102 ] || [ $act = 102 ]
+then
+clear
+echo -e $red" tunggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" Tunggu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tUnggu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tuNggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunGgu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tungGu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tunggU bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu Bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bEntar ..."
+sleep 0.1
+clear
+echo -e $red" tunggu beNtar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu benTar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentAr ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentaR ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentar ..."
+sleep 0.1
+clear
+clear 
+echo -e $lightgreen" tunggu bentAr ..."
+sleep 0.1
+clear
+echo -e $red" tunggu beNtar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bEntar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu Bentar ..."
+sleep 0.1
+clear
+echo -e $red" tunggU bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tungGu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunGgu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tuNggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tUnggu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" Tunggu bentar ..."
+sleep 3
+clear
+echo -e $lightgreen" Installing Choicebot"
+sleep 1
+git clone https://github.com/thelinuxchoice/choicebot.git
+sleep 1
+echo -e $yellow" Selesai Install Coy ..."
+sleep 3
+./shadowbotv2
+fi
+
+if [ $act = 103 ] || [ $act = 103 ]
+then
+clear
+echo -e $red" tunggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" Tunggu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tUnggu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tuNggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunGgu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tungGu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tunggU bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu Bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bEntar ..."
+sleep 0.1
+clear
+echo -e $red" tunggu beNtar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu benTar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu bentAr ..."
+sleep 0.1
+clear
+echo -e $red" tunggu bentaR ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bentar ..."
+sleep 0.1
+clear
+clear 
+echo -e $lightgreen" tunggu bentAr ..."
+sleep 0.1
+clear
+echo -e $red" tunggu beNtar ..."
+sleep 0.1
+clear
+echo -e $yellow" tunggu bEntar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunggu Bentar ..."
+sleep 0.1
+clear
+echo -e $red" tunggU bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tungGu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" tunGgu bentar ..."
+sleep 0.1
+clear
+echo -e $red" tuNggu bentar ..."
+sleep 0.1
+clear
+echo -e $yellow" tUnggu bentar ..."
+sleep 0.1
+clear
+echo -e $lightgreen" Tunggu bentar ..."
+sleep 3
+clear
+echo -e $lightgreen" Installing GoblinWorldGenerator"
+sleep 1
+git clone https://github.com/UndeadSec/GoblinWordGenerator.git
+chmod +x goblin.py
+sleep 3
+./shadowbotv2
+fi
+
 if [ $act = 00 ] || [ $act = 00 ]
 then
-
+clear
 echo -e $red" Tunggu bentar coy ... "
 sleep 0.1
 clear
