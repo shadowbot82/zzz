@@ -838,7 +838,7 @@ echo -e $lightgreen"[+]=================================[+]"
 
 echo -e ""
 echo -e $white" [<]==============================[>]"
-echo -e $white"  00) Keluar Njengg... " echo -e $yellow" A) About"
+echo -e $white"  00) Keluar Njengg... " 
 echo -e $white" [<]==============================[>]"
 echo -e $lightgreen""
 read -p "[shadow@Tools]> " act;
