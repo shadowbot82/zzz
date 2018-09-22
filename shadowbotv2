@@ -47,102 +47,7 @@ echo -e $lightgreen
 figlet "3"
 sleep 1
 clear
-echo -e $red
-figlet "4"
-sleep 1
-clear
-echo -e $yellow
-figlet "5"
-sleep 1
-clear
 
-echo -e $red" Tunggu bentar coy ... "
-sleep 0.1
-clear
-echo -e $yellow"tUnggu bentar coy ..."
-sleep 0.1
-clear
-echo -e $lightgreen" tuNggu bentar coy ..."
-sleep 0.1
-clear
-echo -e $red" tunGgu bentar coy ..."
-sleep 0.1
-clear
-echo -e $yellow" tungGu bentar coy ..."
-sleep 0.1
-clear
-echo -e $lightgreen" tunggU bentar coy ..."
-sleep 0.1
-clear
-echo -e $red" tunggu Bentar coy ..."
-sleep 0.1
-clear
-echo -e $yellow" tunggu bEntar coy ..."
-sleep 0.1
-clear
-echo -e $lightgreen" tunggu beNtar coy ..."
-sleep 0.1
-clear
-echo -e $red" tunggu benTar coy ..."
-sleep 0.1
-clear
-echo -e $lightgreen" tunggu bentAr coy ..."
-sleep 0.1
-clear
-echo -e $red" tunggu bentaR coy ..."
-sleep 0.1
-clear
-echo -e $yellow" tunggu bentar Coy ..."
-sleep 0.1
-clear
-echo -e $lightgreen" tunggu bentar cOy ..."
-sleep 0.1
-clear
-echo -e $red" tunggu bentar coY ..."
-sleep 0.1
-clear
-echo -e $yellow" tunggu bentar cOy ..."
-sleep 0.1
-clear
-echo -e $lightgreen" tunggu bentar Coy ..."
-sleep 0.1
-clear
-echo -e $red" tunggu bentaR coy ..."
-sleep 0.1
-clear
-echo -e $yellow" tunggu bentAr coy ..."
-sleep 0.1
-clear
-echo -e $lightgreen" tunggu benTar coy ..."
-sleep 0.1
-clear
-echo -e $red" tunggu beNtar coy ..."
-sleep 0.1
-clear
-echo -e $yellow" tunggu bEntar coy ..."
-sleep 0.1
-clear
-echo -e $lightgreen" tunggu Bentar coy ..."
-sleep 0.1
-clear
-echo -e $red" tunggU bentar coy ..."
-sleep 0.1
-clear
-echo -e $yellow" tungGu bentar coy ..."
-sleep 0.1
-clear
-echo -e $lightgreen" tunGgu bentar coy ..."
-sleep 0.1
-clear
-echo -e $red" tuNggu bentar coy ..."
-sleep 0.1
-clear
-echo -e $yellow" tUnggu bentar coy ..."
-sleep 0.1
-clear 
-echo -e $lightgreen"Tunggu bentar coy ..."
-sleep 0.1
-clear
 echo -e $red" Tunggu bentar coy ... "
 sleep 0.1
 clear
@@ -692,12 +597,12 @@ echo -e $red" WELCOME TO TOOLS SHADOW BOT.......................................
 sleep 2
 clear
 
-echo -e $red"          ###    #     #   ###   # ###      ###   #       #"
-echo -e $yellow"        #     #  #     # #     # #     #  #     # #   #   #"
-echo -e $lightgreen"        # ###    # ### # # ### # #      # #     # #  # #  #"
-echo -e $red"      #      #   #     # #     # #     #  #     # # #   # #"
-echo -e $yellow"        ### #    #     # #     # # ###      ###   #       #"
-
+echo -e $red"        ###    #     #   ###   # ###      ###   #       #"
+echo -e $yellow"      #     #  #     # #     # #     #  #     # #   #   #"
+echo -e $lightgreen"      # ###    # ### # # ### # #      # #     # #  # #  #"
+echo -e $red"    #      #   #     # #     # #     #  #     # # #   # #"
+echo -e $yellow"      ### #    #     # #     # # ###      ###   #       #"
+sleep 1
 echo -e $white"    =================================================="
 sleep 1
 echo -e $red"      # Name     : Shadow Bot             #"
@@ -707,7 +612,7 @@ echo -e $white"      # Youtube  : SHADOW BOT CHANNEL     #"
 
 echo -e $red"      # Thanks To : -Hidden Ghost Team    #"
 echo -e $white"                    -Indonesia Cyber Army #"
-echo -e $red"                        version 1.0"
+echo -e $red"                        version 2.0"
 sleep 1
 echo -e $white"     =================================================="
 sleep 1
@@ -932,9 +837,9 @@ echo -e $red" 103) GoblinWordGenerator"
 echo -e $lightgreen"[+]=================================[+]"
 
 echo -e ""
-echo -e $yellow" [<]==============================[>]"
-echo -e $red"  00) Keluar Njengg... "
-echo -e $yellow" [<]==============================[>]"
+echo -e $white" [<]==============================[>]"
+echo -e $white"  00) Keluar Njengg... " echo -e $yellow" A) About"
+echo -e $white" [<]==============================[>]"
 echo -e $lightgreen""
 read -p "[shadow@Tools]> " act;
 
@@ -10057,6 +9962,12 @@ chmod +x goblin.py
 sleep 3
 ./shadowbotv2
 fi
+
+if [ $act = A ] || [ $act = A ]
+then
+clear
+echo -e $red" @author  : Shadow Bot" 
+echo -e $yellow" 
 
 if [ $act = 00 ] || [ $act = 00 ]
 then
