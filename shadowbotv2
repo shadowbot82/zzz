@@ -631,6 +631,8 @@ echo -e $yellow" [<]==============================[>]"
 echo -e $white" [01] Pilihan Pertama"
 echo -e $white" [02] Pilihan Kedua"
 
+infogathering = raw_input("zzz > ")
+
 if zzz == "1" or zzz == "01":
 echo ""
 echo -e $red" 01) Red Hawk"
