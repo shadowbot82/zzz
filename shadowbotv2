@@ -9963,12 +9963,6 @@ sleep 3
 ./shadowbotv2
 fi
 
-if [ $act = A ] || [ $act = A ]
-then
-clear
-echo -e $red" @author  : Shadow Bot" 
-echo -e $yellow" 
-
 if [ $act = 00 ] || [ $act = 00 ]
 then
 clear
